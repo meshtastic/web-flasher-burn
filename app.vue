@@ -17,14 +17,14 @@
               <div class="mx-auto">
                 <img src="@/assets/img/logo.svg" class="h-32 w-32 inline-block pt-0 mt-1 text-meshtastic" alt="Meshtastic Logo" />
                 <h1 class="text-white text-6xl font-bold inline-block ml-4 mt-8 align-top">
-                  DEF CON Edition Flasher
+                  Burning Man Edition Flasher
                 </h1>
-                <img src="@/assets/img/dc32-logo-full-color-semi-transparent-bg.png" class="w-32 inline-block ml-4 pt-0 mt-0" alt="DEFCON Logo" />
+                <img src="@/assets/img/Burning-Man.svg" class="w-24 invert inline-block ml-4 pt-0 mt-0" alt="Burn Logo" />
               </div>
             </div>
           </div>
           <blockquote>
-            <ExclamationTriangleIcon class="h-4 w-4 inline"/> DEF CON 32 Edition firmware is not affiliated with or sponsored by DEF CON in any way. This release is only intended to encourage building a network for Meshtastic enthusiasts during the event.
+            <ExclamationTriangleIcon class="h-4 w-4 inline"/> Burning Man Edition firmware is not affiliated with or sponsored by Burning Man in any way. This release is only intended to encourage building a network for Meshtastic enthusiasts during the event.
           </blockquote>
           <div class="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4">
             <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
